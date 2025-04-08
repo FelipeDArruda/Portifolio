@@ -40,8 +40,7 @@ Este portfólio foi criado com o objetivo de reunir minhas principais habilidade
 ## 📬 Contato
 
 Caso queira entrar em contato, visite a seção "Contato" no portfólio ou envie um e-mail para:  
-**felipe.dev.arruda@gmail.com**
-
+**felipearrudadasilva58@gmail.com**
 ---
 
 ## 📄 Licença
