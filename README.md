@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do meu portfólio pessoal! 🚀  
 Aqui você encontrará uma apresentação dos meus projetos, habilidades e experiências como desenvolvedor.
 
-🔗 Acesse o portfólio online: [felipedarruda.github.io/Portifolio/portifio.html](https://felipedarruda.github.io/Portifolio/portifio.html)
+🔗 Acesse o portfólio online:(https://felipedarruda.github.io/Portifolio/portifio.html)
 
 ---
 
