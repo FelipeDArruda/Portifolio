@@ -12,7 +12,7 @@ Aqui você encontrará uma apresentação dos meus projetos, habilidades e exper
 ![Portfolio Preview]
 
 
-![Portfolio Preview](![Imagem do WhatsApp de 2025-04-08 à(s) 06 13 32_31a6f43a](https://github.com/user-attachments/assets/7a7f0c7c-a8e6-4821-a21a-8e078bdf346e)
+[Imagem do WhatsApp de 2025-04-08 à(s) 06 13 32_31a6f43a](https://github.com/user-attachments/assets/7a7f0c7c-a8e6-4821-a21a-8e078bdf346e)
 )
 
 ---
