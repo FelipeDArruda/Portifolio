@@ -35,7 +35,7 @@ Este portfólio foi criado com o objetivo de reunir minhas principais habilidade
 
 - Página inicial com imagem e introdução pessoal
 - Seções de habilidades, projetos e contato
-- Design responsivo (em construção/melhoria contínua)
+- Design responsivo 
 
 ---
 
