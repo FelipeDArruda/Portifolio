@@ -37,14 +37,6 @@ Este portfólio foi criado com o objetivo de reunir minhas principais habilidade
 
 ---
 
-## 📷 Screenshot
-
-Veja abaixo uma prévia da interface:
-
-![Screenshot do Portfólio](./preview.png)
-
----
-
 ## 📬 Contato
 
 Caso queira entrar em contato, visite a seção "Contato" no portfólio ou envie um e-mail para:  
