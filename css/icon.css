@@ -1,0 +1,111 @@
+.knowledge-container {
+    display: flex;
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    gap: 40px;
+    justify-content: space-between;
+    align-items: center;
+    /* O resto do seu CSS permanece igual */
+}
+
+.summary-section, .icons-section {
+    flex: 1; /* Split the container into two equal parts */
+}
+
+/* Left Side: Summaries */
+.summary-section {
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.summary-section h1 {
+    font-size: 2.5rem;
+    color: #e6deff;
+    margin-bottom: 20px;
+}
+
+.summary-section h2 {
+    color: #796e99;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.summary-section p {
+    color: #ffffff;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
+.summary-section a {
+    color: #d2cfde;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.summary-section a:hover {
+    color: #fff;
+}
+
+/* Right Side: Icons */
+.icons-section {
+    text-align: center;
+}
+
+.icons-section h1 {
+    font-size: 2.5rem;
+    color: #f5f2ff;
+    margin-bottom: 10px;
+}
+
+.icons-section p {
+    font-size: 1rem;
+    color: #8a98d1;
+    margin-bottom: 30px;
+}
+
+.icons-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3-column grid for icons */
+    gap: 20px;
+}
+
+.icon-card {
+    background-color: #2a2a40;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    height: 100px;
+}
+
+.icon-card img {
+    width: 50px;
+    height: 50px;
+}
+
+.icon-card:hover {
+    transform: scale(1.05);
+}
+
+.icon-card.active {
+    border: 2px solid #a78bfa;
+}
+
+.title-dot {
+    color: #3498db; /* Azul para combinar */
+  }
+
+  .delaySmallReveal i{
+    color: #4881a7;
+  }
